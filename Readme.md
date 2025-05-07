@@ -1,6 +1,4 @@
-
-
-This Assignment implements a machine learning-based topic classification system that categorizes text content into predefined topics. The system includes model building, evaluation, improvement, and a Flask API for real-time predictions.
+Machine learning-based topic classification system that categorizes text content into predefined topics. The system includes model building, evaluation, improvement, and a Flask API for real-time predictions.
 
 ## Project Overview
 
@@ -113,8 +111,6 @@ python api_test.py
 
 
 ## API Usage Examples
-
-In this repository you can see log.txt which is automatically saved from my terminal where you can see the output of python api_test.py.
 You must run app.py first in a terminal first then create another terminal and run python api_test.py for the TESTING.
 
 ### Single Prediction
